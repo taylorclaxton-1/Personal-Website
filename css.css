@@ -1,0 +1,15 @@
+
+h1{
+    font-family: arvo;
+}
+.homepara{
+    font-family: arvo;
+    font-size: 20px;
+}
+.card p{
+    font-family: arvo;
+}
+.entirecard{
+    padding: 25px;
+    float: left;
+}
